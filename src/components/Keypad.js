@@ -6,7 +6,7 @@ export default class Keypad extends Component {
         return (
             <div>
             <input type="password" onKeyUp={this.entertPassowrd}/>
-            </div>     
+            </div>
         )
     }
 }
